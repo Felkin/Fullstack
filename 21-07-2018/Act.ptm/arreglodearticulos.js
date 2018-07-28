@@ -1,0 +1,1 @@
+x=prompt("Ingresar numero de objetos

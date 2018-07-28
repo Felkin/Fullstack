@@ -1,0 +1,14 @@
+#circle{
+	height: 600px;
+    width: 600px;
+    
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+.color {
+	display: block;
+	 border-radius: 5px;
+	background-color: green;
+}

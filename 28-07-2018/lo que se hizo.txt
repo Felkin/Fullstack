@@ -1,0 +1,59 @@
+por defecto el ultimo que escriba lo toma como return
+
+attr_accesor:name  es como set y get de la varible
+el initialize nunca lleva la primera en mayuscula
+los demas metodos deben tener la primera letra en mayuscula
+to_i integred
+to_s string
+to_h hash
+to_a array
+eval(x) bool
+
+if els de manera contra
+result +=(@age>18 ?"":"")
+dondicionale:
+
+&& y and
+|| y or
+!  y not
+
+
+def condicionales
+      case name
+      when true
+        
+      when 
+        
+      else
+        
+      end      
+
+    end
+
+si la edad es mayor a 18 años lo imprime de lo contrario noornar si ya cumplieron años
+
+ingresar un dia un mes y un año y va ret
+
+
+la clase Date viene ya para la fecha de hoy Date.today
+
+ciclos:
+ hay varias maneras de especificarlos 
+ for i in(0..x)
+ end
+ (0..x).each do [i,value]
+ end
+
+hacer el ejercicio de tomar 7 numeros sumarlos y sacar el promedio con la restricion de cero si oprime 0 para
+
+
+
+ que como cuando por que 
+ documentacion;
+ manera de que se instala
+ como se hace su propio cuba
+ toca sacar un documento a la poblacion que se debe aplicar
+ todo en postgress 
+
+ proxima clase instalado postgress
+ y my sql workbench

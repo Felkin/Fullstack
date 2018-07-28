@@ -1,0 +1,28 @@
+h1 {
+	color: #FF0000;
+}
+p{
+	color:green;
+}
+#grey{
+	color:#848484;
+}
+#avatar{
+	height: 200px;
+	width: 200px;
+}
+.subti{
+	background-color: #000000;
+	color:#ffffff;
+
+}
+.class1{
+	background-color: #8181F7;
+}
+#class2{
+	border-radius: 20px; 
+	box-shadow: -5px 6px;
+}
+[box]{
+	border-bottom: 1px solid;
+}
